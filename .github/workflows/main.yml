@@ -14,5 +14,5 @@ jobs:
         with:
           username: ${{ secrets.SECRET_USERNAME }}
           password: ${{ secrets.SECRET_PASSWORD }}
-          repository: nreiner/ceg3120-p4-nreiner
+          repository: nreiner/project4_ceg3120_nr
           tag_with_ref: true
