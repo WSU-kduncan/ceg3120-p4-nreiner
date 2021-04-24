@@ -51,9 +51,15 @@ ceg3120-p4-nreiner Project Readme File:
 * Lastly, once the workflow was published I drafted a new release version and made sure that the tags were indeed appearing on my DockerHub repository. 
 
 ## 3) Images For Proof (Not Necessary, but felt they would add to the project)  
+* Creation of Repository
+[!repoCreationImage](~/Project4/ceg3120-p4-nreiner/images/RepoCreation.JPG)  
 
-[!]()  
-[!]()  
-[!]()  
-[!]()
+* AWS CLI Error, reason for using DockerHub
+[!awsErrorImage](~/Project4/ceg3120-p4-nreiner/images/awserror.JPG)  
+
+* Credentials for AWS CLI in powershell  
+[!credentialsCLIImage](~/Project4/ceg3120-p4-nreiner/images/credentials.JPG)  
+
+* Proof that DockerHub is working as intended with GitHub classroom workflow
+[!dockerHubImage](~/Project4/ceg3120-p4-nreiner/images/dockerproof.JPG)
 
